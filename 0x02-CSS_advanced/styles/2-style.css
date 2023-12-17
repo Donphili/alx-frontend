@@ -1,10 +1,7 @@
-/* Effortless transitions when scrolling */
+/* Smooth transition while scrolling */
 html {
     scroll-behavior: smooth;
 }
-
-
-/* Foreground colors */
 
 body {
     color: #161616;
